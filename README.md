@@ -5,8 +5,8 @@ OS: Mac OS.
 
 To run the application you need to download the repository and run the application file 'vocabulary_test.app' which can be found in the 'dist' folder.
 
-Preview:
-https://user-images.githubusercontent.com/32638771/31601221-983ccf20-b272-11e7-82ee-bd3230821d7a.png
+Preview:  
+https://user-images.githubusercontent.com/32638771/31601375-17cb6b0c-b273-11e7-9d69-0e2ebe0eb356.png
 
 I wrote the vocabulary file based on the first twenty episodes of the podcast 'Coffee Break Spanish' https://itunes.apple.com/ru/podcast/coffee-break-spanish/id201598403?l=en&mt=2 (or found here https://radiolingua.com/coffeebreakspanish/).
 
