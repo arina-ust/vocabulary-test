@@ -13,8 +13,8 @@ I wrote the vocabulary file based on the first twenty episodes of the podcast 'C
 The format of 'vocabulary.txt' is the following:
 
 1  
-palabra en espanol = english translation  
-otra palabra = its english translation
+palabra en espanol = word in Spanish  
+otra palabra = another word
 
 where 1 is an episode number (called unit in the app). This number is displayed after checking the translation of each word.
 
