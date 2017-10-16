@@ -21,4 +21,5 @@ where 1 is an episode number (called unit in the app). This number is displayed 
 Possible improvements:
 - implement uploading a vocabulary file chosen by the user;
 - after finishing a session display the list of words with their translations that were translated incorrectly;
-- suggestion of words to tanslate based on past results of the user (those that were translated incorrectly appear more frequently).
+- suggestion of words to tanslate based on past results of the user (those that were translated incorrectly appear more frequently);
+- Windows app.
