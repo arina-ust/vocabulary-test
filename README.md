@@ -1,10 +1,6 @@
 # vocabulary-test
 A simple desktop application that checks the knowledge of words from a given vocabulary file.
 
-OS: Mac OS. 
-
-To run the application you need to download the repository and run the application file 'vocabulary_test.app' which can be found in the 'dist' folder.
-
 Preview:  
 https://user-images.githubusercontent.com/32638771/31601375-17cb6b0c-b273-11e7-9d69-0e2ebe0eb356.png
 
