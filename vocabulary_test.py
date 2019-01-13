@@ -150,10 +150,11 @@ class GUI(object):
 window = tk.Tk()
 window.title('Vocabulary Test')
 
-filename = os.path.join(os.path.dirname(sys.executable), 'vocabulary.txt')
-g = GUI(window, filename)
+# for build
+#filename = os.path.join(os.path.dirname(sys.executable), 'vocabulary.txt')
+#g = GUI(window, filename)
 
-#g = GUI(window, 'vocabulary.txt')
+g = GUI(window, 'vocabulary.txt')
 
 window.mainloop()
 window.destroy()
