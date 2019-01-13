@@ -1,1 +1,0 @@
-../Resources/vocabulary.txt
